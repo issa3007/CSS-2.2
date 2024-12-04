@@ -179,7 +179,6 @@ body {
   position: absolute;
   left: 10px;
   top: 50%;
-  transform: translateY(-50%);
 }
 
 .logo {
@@ -202,20 +201,15 @@ body {
 }
 
 .footer-nav a {
-  color: #fff;
+  color: #FFFFFF;
   text-decoration: none;
   margin: 0 15px;
-  font-size: 0.9rem;
-}
-
-.footer-nav a:hover {
-  text-decoration: underline;
+  font-size: 14px;
 }
 
 .date {
   position: absolute;
   right: 10px;
   top: 50%;
-  transform: translateY(-50%);
-  font-size: 0.9rem;
+  font-size: 14px;
 }
